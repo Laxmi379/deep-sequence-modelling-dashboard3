@@ -6,3 +6,7 @@ pandas
 numpy
 nltk
 yfinance
+rich
+markdown-it-py
+mdurl
+pygments
