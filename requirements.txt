@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.13.0
+numpy
+pandas
+nltk
+yfinance
+scikit-learn
+matplotlib
+
